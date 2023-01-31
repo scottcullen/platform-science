@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "platform-science-exercise": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\drivers.txt\r\n.\\deliveryDestinations.txt"
+    }
+  }
+}

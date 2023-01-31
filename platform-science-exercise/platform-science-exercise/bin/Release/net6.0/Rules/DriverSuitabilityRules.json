@@ -1,0 +1,11 @@
+[
+  {
+    "WorkflowName": "DriverSuitability",
+    "Rules": [
+      {
+        "RuleName": "IsStreetNameLengthEven",
+        "Expression": "destination.Length % 2 == 0"
+      }
+    ]
+  }
+] 
