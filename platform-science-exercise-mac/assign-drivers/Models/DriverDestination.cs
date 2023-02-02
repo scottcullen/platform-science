@@ -10,7 +10,6 @@ namespace platform_science_exercise.Models
     {
         private Driver driver = new();
         private List<Destination> deliveryDestination = new();
-        private decimal suitabilityScore;
 
         public Driver Driver { get => driver; set => driver = value; }
         public List<Destination> ScoredDeliveryDestinations { get => deliveryDestination; set => deliveryDestination = value; }
