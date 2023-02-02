@@ -65,7 +65,7 @@ namespace platform_science_exercise.Business
         }
 
         public List<DriverDestination> AssignDriversToDestinations(List<DriverDestination> driverDestinations, 
-            List<DriverDestination> driverAssignments)
+            List<DriverDestination>? driverAssignments)
         {
             if (driverAssignments == null)
             { 
