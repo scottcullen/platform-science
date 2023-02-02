@@ -8,8 +8,8 @@ namespace platform_science_exercise.Models
 {
     internal class Driver
     {
-        private string? _name;
+        private string? name;
 
-        public string? Name { get => _name; set => _name = value; }
+        public string? Name { get => name; set => name = value; }
     }
 }

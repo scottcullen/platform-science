@@ -8,8 +8,8 @@ namespace platform_science_exercise.Models
 {
     internal class DriverDestination
     {
-        private Driver? driver;
-        private List<Destination>? deliveryDestination;
+        private Driver driver = new();
+        private List<Destination> deliveryDestination = new();
         private decimal suitabilityScore;
 
         public Driver Driver { get => driver; set => driver = value; }
