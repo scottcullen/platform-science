@@ -1,9 +1,5 @@
 using platform_science_exercise.Models;
 using Open.Numeric.Primes;
-using System.Reflection.Metadata.Ecma335;
-using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
-using System.Collections;
 
 namespace platform_science_exercise.Business
 {

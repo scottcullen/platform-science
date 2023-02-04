@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using platform_science_exercise.Business;
 using platform_science_exercise.Models;
 
